@@ -1,3 +1,29 @@
-img{
-  max-width: 100%;
+body{
+  background: black;
 }
+
+h1{
+  font: 200px helvetica;
+  text-align: center;
+  color: white;
+}
+
+ul{
+  list-style: none;
+  text-align: center;
+  margin: 40px 200px;
+}
+
+a{
+  font: 100px helvetica;
+  color: white;
+  text-decoration-line: none;
+  text-align: left;
+}
+
+<!--
+a:hover
+{
+  color: red;
+}
+//-->
