@@ -1,11 +1,24 @@
 body{
-  background: black;
+  background: rgba(20, 30, 40);
 }
 
 h1{
   font: 200px helvetica;
   text-align: center;
   color: white;
+}
+
+img{
+  height: 500px;
+  margin-left: 60px;
+}
+
+p{
+  font: 50px helvetica;
+  text-align: left;
+  margin-left: 100px;
+  color: white;
+
 }
 
 ul{
@@ -24,6 +37,6 @@ a{
 <!--
 a:hover
 {
-  color: red;
+  color: rgba(200, 120, 140);
 }
 //-->
